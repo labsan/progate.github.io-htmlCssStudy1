@@ -8,4 +8,4 @@
   - Membuat Layout HTML bagian Footer dalam Website
   - Membuat Layout HTML bagian Content dalam Website
   - Membuat Form dalam Website
-- Demo file: https://labsan.github.io/progate.github.io-htmlCssStudy1/index.html
+- Demo hasil belajar: https://labsan.github.io/progate.github.io-htmlCssStudy1/index.html
