@@ -1,3 +1,11 @@
 # progate.github.io-htmlCssStudy1
-- Hasil belajar dari situs Progate (https://progate.com/lessons/html/study/1) pada kelas "HTML & CSS Study 1"
+- Hasil belajar dari situs Progate pada kelas "HTML & CSS Study 1"
+- Pada kelas "HTML & CSS Study 1", kita akan belajar mengenai:
+  - Dasar-dasar HTML
+  - Dasar-dasar CSS
+  - Pengenalan Layout Dasar HTML dalam Website
+  - Membuat Layout HTML bagian Header dalam Website
+  - Membuat Layout HTML bagian Footer dalam Website
+  - Membuat Layout HTML bagian Content dalam Website
+  - Membuat Form dalam Website
 - Demo file: https://labsan.github.io/progate.github.io-htmlCssStudy1/index.html
